@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonid - aka markevjich</h1>
 <h3 align="center">Beginner Frontend/Fullstack developer. Currently learning JavaScript, React, Node.js and modern web technologies. Passionate about coding, problem-solving, and building useful projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fishxet&label=Profile%20views&color=0e75b6&style=flat" alt="fishxet" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fishxet" alt="fishxet" /></a> </p>
 
 - 🌱 I’m currently learning **the full journey of web development — from fundamentals to advanced tools and frameworks**
