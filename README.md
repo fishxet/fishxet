@@ -52,16 +52,6 @@
 </p>
 
 **Strengths:** Game Loop & State Machines · Slot Mechanics · WebGL & Performance Optimization · Event-driven Architecture · Service Locator / DI · REST API Integration · Spine / Animations
-
----
-
-### GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fishxet&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishxet&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
 ---
 
 ### Reach me
