@@ -56,7 +56,7 @@
 
 ### Reach me
 
-- 📫 **ggfhappinesss@gmail.com**
+- 📫 **leonidmarkevychwork@gmail.com*
 - 💼 [linkedin.com/in/leonidmarkevych](https://www.linkedin.com/in/leonidmarkevych/)
 - 🧩 [leetcode.com/u/fishxet](https://leetcode.com/u/fishxet/)
 - 👨‍💻 Projects → [github.com/fishxet](https://github.com/fishxet)
